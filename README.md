@@ -22,7 +22,7 @@
 ## 操作方法
   ボタンクリック
   
-##実行URL
+## 実行URL
   https://kiyosawa100.github.io/PORTFOLIO/PaperSumo/
 
 ---クリッカーゲーム---
@@ -35,5 +35,5 @@
 ## 操作方法
   ボタンクリック
   
-##実行URL
+## 実行URL
   https://kiyosawa100.github.io/PORTFOLIO/ClickerGame/
